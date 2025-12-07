@@ -1,8 +1,5 @@
-# Get There as Fast as Possible (C++)
+# Multithreaded (concurrent) Heap (C++)
 
-You can find the instructions for this lab at [More Than Equations][more-than-equations]. Create a new repository on GitHub to house your code. Be sure to make the repository public so that I can view and grade it.
-
-We will use [CMake][cmake] to build executables (e.g. tests, the driver program, the benchmarks, etc.). Additionally, we will use [Catch2][catch2] for unit testing and benchmarking.
 
 ## Building Executables With CMake
 
@@ -29,8 +26,5 @@ The `main.cpp` file at the root of the project must have a corresponding entry i
 
 ## Running Benchmarks
 
-We will not be benchmarking any code in this lab. You do not have to run any benchmarks with Catch2.
-
 [catch2]: https://github.com/catchorg/Catch2
 [cmake]: https://cmake.org/
-[more-than-equations]: https://morethanequations.com/Computer-Science/Labs/Get-There-as-Fast-as-Possible
